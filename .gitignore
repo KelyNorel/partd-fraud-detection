@@ -1,0 +1,9 @@
+data/raw/
+data/processed/
+*.parquet
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+.DS_Store
